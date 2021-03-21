@@ -97,18 +97,18 @@ Há uma base simples para suas criações por [aqui](https://github.com/KillovSk
 ### Mudanças
 Edite as API's encontradas em: (Se estiver incorreta avise ou procure)
 
-- [API 1 & 2 - ImgBB](https://github.com/KillovSky/alexa/blob/main/lib/config/config.json#5)
-- [API 2 - AlphaCoders](https://github.com/KillovSky/alexa/blob/main/lib/config/config.json#6)
-- [API 3 - API-Flash](https://github.com/KillovSky/alexa/blob/main/lib/config/config.json#7)
-- [API 4 - RemoveBG](https://github.com/KillovSky/alexa/blob/main/lib/config/config.json#8)
-- [API 5 - WallHaven](https://github.com/KillovSky/alexa/blob/main/lib/config/config.json#12)
-- [Limite de Membros](https://github.com/KillovSky/alexa/blob/main/lib/config/config.json#10)
-- [Limite de Grupos](https://github.com/KillovSky/alexa/blob/main/lib/config/config.json#9)
-- [Prefix](https://github.com/KillovSky/alexa/blob/main/lib/config/config.json#4)
-- [Número 1 & 2](https://github.com/KillovSky/alexa/blob/main/lib/config/config.json#2)
-- [DDI](https://github.com/KillovSky/alexa/blob/main/lib/config/config.json#3)
-- [Bomber](https://github.com/KillovSky/alexa/blob/main/config.js#L3131)
-- [Akinator](https://github.com/KillovSky/alexa/blob/main/lib/config/config.json#11)
+- [API 1 & 2 - ImgBB](https://github.com/patulinomods/alexa/blob/main/lib/config/config.json#5)
+- [API 2 - AlphaCoders](https://github.com/patulinomods/alexa/blob/main/lib/config/config.json#6)
+- [API 3 - API-Flash](https://github.com/patulinomods/alexa/blob/main/lib/config/config.json#7)
+- [API 4 - RemoveBG](https://github.com/patulinomods/alexa/blob/main/lib/config/config.json#8)
+- [API 5 - WallHaven](https://github.com/patulinomods/alexa/blob/main/lib/config/config.json#12)
+- [Limite de Membros](https://github.com/patulinomods/alexa/blob/main/lib/config/config.json#10)
+- [Limite de Grupos](https://github.com/patulinomods/alexa/blob/main/lib/config/config.json#9)
+- [Prefix](https://github.com/KillovSky/patulinomods/blob/main/lib/config/config.json#4)
+- [Número 1 & 2](https://github.com/patulinomodsy/alexa/blob/main/lib/config/config.json#2)
+- [DDI](https://github.com/patulinomodsy/alexa/blob/main/lib/config/config.json#3)
+- [Bomber](https://github.com/patulinomods/alexa/blob/main/config.js#L3131)
+- [Akinator](https://github.com/patulinomods/alexa/blob/main/lib/config/config.json#11)
 - Elas são referentes aos sites [RemoveBG](https://www.remove.bg/pt-br), [ImgBB](https://api.imgbb.com/), [AlphaCoders](https://wall.alphacoders.com/api.php) e [WallHaven](https://wallhaven.cc/settings/account).
 - A DDI e Akinator são obrigatórios apenas caso você for de fora do Brasil, o Bomb apenas se você usar Linux.
 
@@ -140,11 +140,10 @@ Para receber também as mensagem de erros da alexa pelo WhatsApp, remova a "//" 
 - [ArugaZ](https://github.com/ArugaZ)
 - [MhankBarBar](https://github.com/MhankBarBar)
 - [SlavyanDesu](https://github.com/SlavyanDesu)
-- [CRIADOR OFC](https://github.com/KillovSky/iris)
+- [CRIADOR OFC](https://github.com/patulinomods)
 - Agradeço de coração a todos vocês!
 
 ### Doar e Suporte
 - [Doações] - Ajude-me a criar comandos, doe algo pelo PicPay ❤️ - [Doar](https://picpay.me/userlucas123)
 - [PIX] - 31 9 96891466
-- [Grupo Oficial] - Não somos grupos de travas - [Entrar](https://chat.whatsapp.com/H53MdwhtnRf7TGX1VJ2Jje)
-- [Dono] - Se precisar falar comigo - [Falar](https://wa.me/+5518998044132)
+- [Dono] - Se precisar falar comigo - [Falar](https://wa.me/+553196891466)
